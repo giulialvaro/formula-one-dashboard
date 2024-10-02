@@ -61,7 +61,7 @@ Feel free to reach out to me at:
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 
 Let’s connect! 🏁
-
+<p align="center">Made with ❤️, by Giuliana Alvaro</p>
 
 
 
