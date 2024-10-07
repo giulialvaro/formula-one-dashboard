@@ -3,7 +3,7 @@
 This interactive Formula 1 dashboard provides an overview of drivers and teams from 1950 up to July 2024. Users can explore performance matrics through various filters, including Season, Team, Driver, Country and Circuit to dive into detailed F1 statistics. 
 
 ## What's include in the dashboard? 
-#### Overal View
+### Overal View
 Provides a high-level summary of key F1 statistics with KPIs and filters to explore different aspects of the races, teams, and drivers.
 
 **Metrics included**
@@ -15,7 +15,8 @@ Provides a high-level summary of key F1 statistics with KPIs and filters to expl
 * **Grand Prix results**: detailed results by race including winnin driver, team, number of laps and total race time
 * **Hall of Fame**: highlighting the top 6 drivers of all time, ranked by championships won (static section)
 
-[Screenshot of the Overall view tab]
+![image](https://github.com/user-attachments/assets/7160a7dc-b479-4797-914b-ae46287dca5c)
+
 
 ### Drivers Performance
 Allows users to explore detailed statistics about each selected driver (only the ones participating in the 2024 season). It offers and overview of the driver's career and performance metrics. 
@@ -27,7 +28,7 @@ Allows users to explore detailed statistics about each selected driver (only the
 * **Heatmap based on average race position per circuit**: explore how the driver performs at different circuits
 * **Teams the driver raced for**: breakdown of the percentage of time the driver spent with each team
 
-[Screenshot of the driver performance tab]
+![image](https://github.com/user-attachments/assets/c8a6694a-3086-40f9-9c06-fbcc922616f6)
 
 
 ## Datasets Used
@@ -44,9 +45,6 @@ The datasets used in this project are sourced from Kaggle (link). I utilized the
 - **`status.csv`**: Information on the status of drivers and races
 
 
-## Key Insights 
-
-
 ## Installation Instructions
 1. Clone the repository:
 2. Open the file using Power BI Desktop
@@ -56,9 +54,9 @@ The datasets used in this project are sourced from Kaggle (link). I utilized the
 I’d love to hear your thoughts on the dashboard or any feedback you might have! 
 Feel free to reach out to me at: 
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: [giulianasalvaro@gmail.com](mailto:giulianasalvaro@gmail.com)
+- **LinkedIn**: [Giuliana Alvaro](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/giuliana-alvaro/))
+- **GitHub**: [My GitHub Profile](https://github.com/giulialvaro)
 
 Let’s connect! 🏁
 <p align="center">Made with ❤️, by Giuliana Alvaro</p>
