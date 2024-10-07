@@ -1,4 +1,4 @@
-# 🏁 Formula One Dashboard - Historical & Drivers analysis
+# 🏁 Formula One Dashboard
 
 This interactive Formula 1 dashboard provides an overview of drivers and teams from 1950 up to July 2024. Users can explore performance matrics through various filters, including Season, Team, Driver, Country and Circuit to dive into detailed F1 statistics. 
 
