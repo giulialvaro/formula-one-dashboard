@@ -47,7 +47,7 @@ The datasets used in this project are sourced from Kaggle (link). I utilized the
 
 ## Installation Instructions
 1. Clone the repository:
-2. Open the file using Power BI Desktop
+2. Open the **`formula-one-dashboard.pbix`** file using Power BI Desktop
 
 
 ## Contact 
